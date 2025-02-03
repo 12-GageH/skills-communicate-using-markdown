@@ -5,3 +5,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Get my GitHub profile set up
+- [x] Finish GitHub Introduction
+- [ ] Finish Cybersecurity Scripting Course
